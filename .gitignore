@@ -1,0 +1,4 @@
+data/processed/cards.db
+__pycache__/
+.ipynb_checkpoints/
+~$*

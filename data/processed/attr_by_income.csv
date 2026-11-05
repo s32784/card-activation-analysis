@@ -1,0 +1,7 @@
+income_category,n_customers,attrition_rate_pct
+$120K +,727,17.3
+Less than $40K,3561,17.2
+Unknown,1112,16.8
+$80K - $120K,1535,15.8
+$40K - $60K,1790,15.1
+$60K - $80K,1402,13.5

@@ -1,0 +1,21 @@
+segment,card_category,n_customers,avg_spend
+1. Champions,Blue,813,9883.0
+1. Champions,Gold,34,11178.0
+1. Champions,Platinum,8,10803.0
+1. Champions,Silver,134,11714.0
+2. At risk,Blue,1291,2883.0
+2. At risk,Gold,15,6352.0
+2. At risk,Platinum,2,9270.0
+2. At risk,Silver,59,4099.0
+3. Dormant,Blue,1480,1506.0
+3. Dormant,Gold,10,1401.0
+3. Dormant,Platinum,2,1543.0
+3. Dormant,Silver,63,1479.0
+4. Low-activity,Blue,1718,2639.0
+4. Low-activity,Gold,10,2709.0
+4. Low-activity,Platinum,1,2021.0
+4. Low-activity,Silver,86,2891.0
+5. Steady users,Blue,4134,5165.0
+5. Steady users,Gold,47,7981.0
+5. Steady users,Platinum,7,9990.0
+5. Steady users,Silver,213,7063.0

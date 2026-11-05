@@ -1,0 +1,11 @@
+segment,status,n_customers,avg_utilization,pct_zero_revolving_balance
+1. Champions,Attrited Customer,10,0.006,80.0
+1. Champions,Existing Customer,979,0.24,15.0
+2. At risk,Attrited Customer,613,0.154,54.2
+2. At risk,Existing Customer,754,0.289,16.0
+3. Dormant,Attrited Customer,274,0.159,58.8
+3. Dormant,Existing Customer,1281,0.307,13.0
+4. Low-activity,Attrited Customer,480,0.217,53.8
+4. Low-activity,Existing Customer,1335,0.278,17.8
+5. Steady users,Attrited Customer,250,0.088,53.6
+5. Steady users,Existing Customer,4151,0.314,21.8

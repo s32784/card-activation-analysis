@@ -1,0 +1,3 @@
+status,n_customers,avg_ct_change_q4_q1,median_ct_change_q4_q1,avg_amt_change_q4_q1,pct_trans_down_40pct_plus,avg_transactions,avg_spend,avg_utilization
+Attrited Customer,1627,0.55,0.53,0.69,61.8,44.9,3095.0,0.162
+Existing Customer,8500,0.74,0.72,0.77,21.2,68.7,4655.0,0.296

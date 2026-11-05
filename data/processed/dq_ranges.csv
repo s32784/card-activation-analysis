@@ -1,0 +1,2 @@
+min_age,max_age,min_inactive,max_inactive,min_contacts,max_contacts,min_limit,max_limit,min_spend,max_spend,min_trans,max_trans,min_util,max_util,n_negative_amounts,n_util_out_of_range
+26,73,0,6,0,6,1438.3,34516.0,510.0,18484.0,10,139,0.0,0.999,0,0

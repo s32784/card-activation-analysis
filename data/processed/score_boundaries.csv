@@ -1,0 +1,13 @@
+dimension,score,min_value,max_value,n_customers
+F (transactions),1,10.0,45.0,2532
+F (transactions),2,45.0,67.0,2532
+F (transactions),3,67.0,81.0,2532
+F (transactions),4,81.0,139.0,2531
+M (spend),1,510.0,2155.0,2532
+M (spend),2,2156.0,3899.0,2532
+M (spend),3,3900.0,4741.0,2532
+M (spend),4,4741.0,18484.0,2531
+R (recency bands),1,4.0,6.0,737
+R (recency bands),2,3.0,3.0,3846
+R (recency bands),3,2.0,2.0,3282
+R (recency bands),4,0.0,1.0,2262
